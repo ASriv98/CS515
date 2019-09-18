@@ -1,4 +1,4 @@
-val len: 'a list -> int
+val len: int list -> int
 val count_greater: 'a list -> 'a -> int
 val greater_tuple: 'a list -> ('a * int) list
 val flat_pair: ('a * 'a) list -> 'a list
